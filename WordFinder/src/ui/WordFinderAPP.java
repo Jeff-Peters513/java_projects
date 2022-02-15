@@ -28,7 +28,9 @@ public class WordFinderAPP {
 
 		// 3. business logic
 		Map<Character, Integer> lettersCountMap = getCharacterCountMap(letters);
-
+		
+		//System.out.println("\n"+lettersCountMap+"\n");
+		
 		System.out.println("\nAll possible words you can make with those letters: \n");
 		
 		for (String currentWord = reader.readLine(); currentWord != null; currentWord = reader.readLine()) {
