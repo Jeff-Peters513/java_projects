@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\repos\\java_projects\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=C\:\\repos-cloned\\Military-Time-20220216\\.git;C\:\\repos\\java_projects\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\repos-cloned\\Military-Time-20220216\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
